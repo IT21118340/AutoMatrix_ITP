@@ -2,9 +2,9 @@
 
 <img src="https://img.shields.io/amo/stars/dustman">
 
-# Project Name - AutoMatrix
-# Description = Driving School Management System using MERN stack
-# Batch - Weekend Batch 02
+# AutoMatrix
+### Driving School Management System using MERN stack
+### Batch - Weekend Batch 02.02
 
 ***
 
